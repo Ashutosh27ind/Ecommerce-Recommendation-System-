@@ -18,7 +18,7 @@ Choose only those beers that have at least N number of reviews.
 	The average number of ratings given to the beers  
 	The average number of ratings given by the users  
   
-**3.	Recommendation Models **
+**3.	Recommendation Models**
 1.	Divide your data into training and testing dataset.  
 2.	Build user-based and item-based models.  
 3.	Determine how similar the first 10 users are to each other and visualise it.  
